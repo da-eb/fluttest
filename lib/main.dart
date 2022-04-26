@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
           centerTitle: true,
         ),
         body: Padding(
-          padding: EdgeInsets.all(30.0),
+          padding: EdgeInsets.all(50.0),
           child: Column(
             children: <Widget>[
               Center(
